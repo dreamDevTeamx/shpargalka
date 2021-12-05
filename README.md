@@ -10,7 +10,9 @@
 
 [JavaScript Learn](https://learn.javascript.ru/) - онлайн книга для изучения JavaScript, его свойств, тегов и немного про веб-разработку. 
 
-[Mozilla Developer](https://developer.mozilla.org/ru/) - англоязычные материалы по веб-разработке, ответы на самые разные вопросы - "Что такое ``<body>``?" до "Как сделать форму регистрации?"
+[Mozilla Developer](https://developer.mozilla.org/ru/) - англоязычные материалы по веб-разработке, ответы на самые разные вопросы - от "Что такое ``<body>``?" до "Как сделать форму регистрации?"
+
+[JavaScript](https://github.com/azat-io/you-dont-know-js-ru) - материалы на GitHub по JavaScript.
 
 ### Курсы 
 

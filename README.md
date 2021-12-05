@@ -28,6 +28,10 @@
 
 ![изображение](https://user-images.githubusercontent.com/88831850/144759539-da6a2ac2-b7ae-476c-9a85-ccb25b0f3890.png)
 
+[Rolling Scopes School](https://rs.school/) - Хорошее не бывает дешёвым. Но бывает бесплатным **(c)** автор статьи про курс на [Habr](https://habr.com/ru/post/465463/)
+
+![изображение](https://user-images.githubusercontent.com/88831850/144761047-d70abab5-3a11-45f4-b734-c37dcb114946.png)
+
 
 ### YouTube каналы, которые могут помочь 
 

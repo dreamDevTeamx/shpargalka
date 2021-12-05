@@ -24,6 +24,9 @@
 
 [Haxlet](https://ru.hexlet.io/) - здесь вы сможете познать всю прелесть языка JavaScript, а также обучится ремеслу Frontend (и не только) разработчика 
 
+![изображение](https://user-images.githubusercontent.com/88831850/144759539-da6a2ac2-b7ae-476c-9a85-ccb25b0f3890.png)
+
+
 ### YouTube каналы, которые могут помочь 
 
 [BrainsCloud](https://www.youtube.com/channel/UCqGjCzCi5zG3RjJUA-ZDBkQ_)

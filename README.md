@@ -46,3 +46,10 @@
 [Гоша Дударь](https://www.youtube.com/c/gosha_dudar) 
 
 ![изображение](https://user-images.githubusercontent.com/88831850/144759475-25570835-1368-43a3-b190-a2ee0ff9a348.png)
+
+### Расслабиться
+
+[Lofi Hip-Hop](https://www.youtube.com/watch?v=5qap5aO4i9A)
+
+![изображение](https://user-images.githubusercontent.com/88831850/144760110-ab7b7db3-06ad-49cd-95c3-99d49f04ac7b.png)
+

@@ -61,3 +61,12 @@
 
 ![изображение](https://user-images.githubusercontent.com/88831850/144760196-6c9338d9-6950-4374-b952-0750194dd704.png)
 
+### Git для начинающих
+
+[Бесплатный курс от Хекслет](https://ru.hexlet.io/courses/intro_to_git) - Продолжительность 18 часов, за это время вы сможете получить как торию, так и практику
+
+[Тренажёр по гиту](https://learngitbranching.js.org/?locale=ru_RU) - Тренажёр-игра, которая сможет помочь легче понять работу с гитом
+
+[Краткий конспект](https://www.evernote.com/shard/s368/client/snv?noteGuid=b1359883-2b9e-419a-b9de-dd959fc05f05&noteKey=97c0f19486d851b3&sn=https%3A%2F%2Fwww.evernotecom%2Fshard%2Fs368%2Fsh%2Fb1359883-2b9e-419a-b9de-dd959fc05f05%2F97c0f19486d851b3&title=Git) - Кратко и структурированно обо всех основных командах гит
+
+[50 коротких видео](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb&ab_channel=JavaScript.ru) - Git-курс от JavaScript.ru. Подробно, от простого к сложному, с детальными объяснениями
